@@ -45,9 +45,16 @@ El usuario puede ingresar el valor a convertir y el programa calcula automática
 ## 📁 Acceso y ejecución del proyecto
 
 1. Descargue o clone el repositorio.  
-2. Abra el proyecto en su IDE de preferencia.  
-3. Ejecute la clase principal.  
-4. Elija una opción del menú y escriba el valor a convertir.  
+2. Abra el proyecto en su IDE de preferencia.
+3. Asegúrese de tener **Java JDK 17 o superior** instalado.  
+4. Ejecute la clase principal `Principal.java`.  
+5. El programa mostrará un menú en consola donde podrá elegir la conversión deseada e ingresar el valor a convertir.
+
+Este proyecto utiliza **ExchangeRate API** para obtener las tasas de cambio en tiempo real.  
+Para ejecutar el proyecto es necesario contar con una **API Key**, la cual puede obtenerse gratuitamente en:
+
+https://www.exchangerate-api.com/
+
 
 ## 🛠 Tecnologías utilizadas
 
