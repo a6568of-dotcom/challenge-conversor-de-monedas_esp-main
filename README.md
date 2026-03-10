@@ -20,12 +20,12 @@ Este proyecto fue desarrollado como parte del Challenge de Programación <strong
 
 ## Indice
 
-- [Funcionalidades del proyecto](#funcionalidades-del-proyecto)
-- [Acceso y ejecucion del proyecto](#acceso-y-ejecucion-del-proyecto)
-- [Tecnologias utilizadas](#tecnologias-utilizadas)
-- [API utilizada](#api-utilizada)
-- [Ejemplo de uso](#ejemplo-de-uso)
-- [Autor](#autor)
+- [Funcionalidades del proyecto](#️-funcionalidades-del-proyecto)
+- [Acceso y ejecucion del proyecto](#-acceso-y-ejecucion-del-proyecto)
+- [Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [API utilizada](#-api-utilizada)
+- [Ejemplo de uso](#-ejemplo-de-uso)
+- [Autor](#️-autor)
 
 
 
