@@ -1,23 +1,28 @@
-Challenge Conversor de Monedas
-![Conversor de monedas](assets/imagen.png)
-Proyecto de Convesor de Monedas en Java para convertir valores a diferentes monedas utilizando tasas de cambio actualizadas desde una API externa.
+**# Challenge Conversor de Monedas**
 
+<p align="center">
+  <img src="assets/imagen.png" width="500">
+</p>
+
+Proyecto de Convesor de Monedas en Java para convertir valores a diferentes monedas utilizando tasas de cambio actualizadas desde una API externa.
 El programa obtiene los datos desde ExchangeRate API, procesa la respuesta en formato JSON usando la biblioteca Gson y permite al usuario interactuar mediante un menú en consola.
 
 Este proyecto fue desarrollado como parte del Challenge de Programación "Practicando con Java: Challenge Conversor de Monedas" del programa Oracle Next Education (ONE) en colaboración con Alura Latam.
 
-✅ Proyecto completado ✅
+<h3 align="center">✅ Proyecto completado ✅</h3>
 
-## 📑 Índice
+
+**### 📑 Índice**
 
 - [Funcionalidades del proyecto](#funcionalidades-del-proyecto)
-- [Acceso y ejecución del proyecto](#acceso-y-ejecución-del-proyecto)
-- [Tecnologías utilizadas](#tecnologías-utilizadas)
+- [Acceso y ejecucion del proyecto](#acceso-y-ejecucion-del-proyecto)
+- [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [API utilizada](#api-utilizada)
 - [Ejemplo de uso](#ejemplo-de-uso)
 - [Autor](#autor)
 
-⚙️ Funcionalidades del proyecto
+
+**⚙️ Funcionalidades del proyecto**
 El conversor permite realizar las siguientes conversiones:
 1. Dólar (USD) → Peso argentino (ARS)
 2. Peso argentino (ARS) → Dólar (USD)
@@ -28,29 +33,33 @@ El conversor permite realizar las siguientes conversiones:
 
 El usuario puede ingresar el valor a convertir y el programa calcula automáticamente el resultado usando la tasa actual.
 
-📁 Acceso y ejecución del proyecto
+
+**📁 Acceso y ejecución del proyecto**
 1. Descargue o clone el repositorio.
 2. Ejecute la clase.
 3. Elija una opción del menú y escribir el valor a convertir.
 
-✅ Tecnologías utilizadas
-- ☕ **Java**
-- 📦 **Gson**
-- 🌐 **ExchangeRate API**
-- 🔗 **HttpClient**
-- 💻 **IntelliJ IDEA**
-- 🗂 **Git**
-- 🐙 **GitHub**
 
-🌐 API utilizada
+**✅ Tecnologías utilizadas**
+- ☕ Java
+- 📦 Gson
+- 🌐 ExchangeRate API
+- 🔗 HttpClient
+- 💻 IntelliJ IDEA
+- 🗂 Git
+- 🐙 GitHub
+
+
+**🌐 API utilizada**
 - ExchangeRate API
 
 https://www.exchangerate-api.com/
 
 
-📌 Ejemplo de uso
+**📌 Ejemplo de uso**
 ![Demo del conversor](assets/demo.gif)
 
 
-🎓 Autor
+
+**🎓 Autor**
 Proyecto desarrollado por AV
