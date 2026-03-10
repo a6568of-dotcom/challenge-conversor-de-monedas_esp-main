@@ -27,7 +27,9 @@ Este proyecto fue desarrollado como parte del Challenge de Programación <strong
 - [Ejemplo de uso](#ejemplo-de-uso)
 - [Autor](#autor)
 
-## Funcionalidades del proyecto
+
+
+## ⚙️ Funcionalidades del proyecto
 
 El conversor permite realizar las siguientes conversiones:
 
