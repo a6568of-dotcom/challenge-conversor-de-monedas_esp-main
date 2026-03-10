@@ -50,12 +50,6 @@ El usuario puede ingresar el valor a convertir y el programa calcula automática
 4. Ejecute la clase principal `Principal.java`.  
 5. El programa mostrará un menú en consola donde podrá elegir la conversión deseada e ingresar el valor a convertir.
 
-Este proyecto utiliza **ExchangeRate API** para obtener las tasas de cambio en tiempo real.  
-Para ejecutar el proyecto es necesario contar con una **API Key**, la cual puede obtenerse gratuitamente en:
-
-https://www.exchangerate-api.com/
-
-
 ## 🛠 Tecnologías utilizadas
 
 - ☕ Java  
