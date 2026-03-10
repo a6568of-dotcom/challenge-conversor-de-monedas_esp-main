@@ -21,8 +21,8 @@ Este proyecto fue desarrollado como parte del Challenge de Programación <strong
 ## Indice
 
 - [Funcionalidades del proyecto](#️-funcionalidades-del-proyecto)
-- [Acceso y ejecucion del proyecto](#-acceso-y-ejecucion-del-proyecto)
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [Acceso y ejecución del proyecto](#-acceso-y-ejecución-del-proyecto)
+- [Tecnologías utilizadas](#-tecnologías-utilizadas)
 - [API utilizada](#-api-utilizada)
 - [Ejemplo de uso](#-ejemplo-de-uso)
 - [Autor](#️-autor)
@@ -42,14 +42,14 @@ El conversor permite realizar las siguientes conversiones:
 
 El usuario puede ingresar el valor a convertir y el programa calcula automáticamente el resultado usando la tasa actual.
 
-## 📁 Acceso y ejecucion del proyecto
+## 📁 Acceso y ejecución del proyecto
 
 1. Descargue o clone el repositorio.  
 2. Abra el proyecto en su IDE de preferencia.  
 3. Ejecute la clase principal.  
 4. Elija una opción del menú y escriba el valor a convertir.  
 
-## 🛠 Tecnologias utilizadas
+## 🛠 Tecnologías utilizadas
 
 - ☕ Java  
 - 📦 Gson  
