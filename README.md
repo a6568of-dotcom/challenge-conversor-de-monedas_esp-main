@@ -42,14 +42,14 @@ El conversor permite realizar las siguientes conversiones:
 
 El usuario puede ingresar el valor a convertir y el programa calcula automáticamente el resultado usando la tasa actual.
 
-## Acceso y ejecucion del proyecto
+## 📁 Acceso y ejecucion del proyecto
 
 1. Descargue o clone el repositorio.  
 2. Abra el proyecto en su IDE de preferencia.  
 3. Ejecute la clase principal.  
 4. Elija una opción del menú y escriba el valor a convertir.  
 
-## Tecnologias utilizadas
+## 🛠 Tecnologias utilizadas
 
 - ☕ Java  
 - 📦 Gson  
@@ -59,18 +59,20 @@ El usuario puede ingresar el valor a convertir y el programa calcula automática
 - 🗂 Git  
 - 🐙 GitHub  
 
-## API utilizada
+## 🌐 API utilizada
 
 - ExchangeRate API
 
 https://www.exchangerate-api.com/
 
-## Ejemplo de uso
+## 📌 Ejemplo de uso
 
 <p align="center">
   <img src="assets/demo.gif" width="500">
 </p>
 
-## Autor
+## ✍️ Autor
 
-Proyecto desarrollado por **AV**
+<img src="assets/avatar.png" width="180">
+
+Proyecto desarrollado por <strong>Arely Hernández</strong>
